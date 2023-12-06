@@ -1,14 +1,5 @@
-### Hi there 👋
+### ✨✨✨✨
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <line x1="10" y1="50" x2="90" y2="50" stroke="black" stroke-width="2" />
-  <circle cx="10" cy="50" r="5" fill="black">
-    <animateMotion dur="2s" repeatCount="indefinite">
-      <mpath xlink:href="#path" />
-    </animateMotion>
-  </circle>
-  <path id="path" d="M10 50 L90 50" />
-</svg>
 <!--
 **dxyz004/dxyz004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
