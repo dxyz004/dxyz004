@@ -1,4 +1,4 @@
-danielsnotes.net
+[danielsnotes.net](https://danielsnotes.net)
 
 <!--
 **dxyz004/dxyz004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
